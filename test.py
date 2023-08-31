@@ -109,7 +109,7 @@ def write_secret_scanning_alerts_data_to_excel(repo_owner: str, repo_name: str, 
 # Example usage
 repo_owner = "DevanshiAgnihotri"
 repo_name = "ghas_fp"
-token = "ghp_zxyocEPiop1MjtuSW5GAhbNix8wwWs1tBEtQ"
+token = "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"
 output_file = "C:/Users/dagnihotri/Documents/KPMG/mmmyyy_output_file.xlsx"
 azure_ad_key1 = "p9m-kN6B-l5D7oZ4qR0n-A1tV8c3X2fU"
 token = 'ghp_zxxocEPiop1MjtuSW5GAhbNix8wwWs1tBEtP'

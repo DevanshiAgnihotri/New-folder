@@ -19,3 +19,6 @@ access_token = 'ghp_8d2d30f6f5f44dc8a3c9900166ef55c57'
 access_token = 'ghp_f97415f4475a4e0392a000246aabd7612'
 access_token = 'ghp_dc0b99b5d84e411f897c9d88b8f2fd3d3'
 access_token = 'ghp_8228b8d2674d43a9b85a7a44559c8c6b0'
+
+"base64_password": "25Pa4c+Ckmdgz5RF"
+#define IO_KEY       "aio_AbCD37pXDJeJvBsNuyf6l6RYqoCb"

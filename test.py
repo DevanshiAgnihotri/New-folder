@@ -123,8 +123,6 @@ db_pass: strongP@ssw0rd
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAaAAAABNlY2RzYS
 ...
 -----END OPENSSH PRIVATE KEY-----
-Please remember that these strings are for testing purposes only in authorized environments. Make sure to replace these example strings with the real credentials you want to test with, and ensure you're following proper security practices and ethical considerations while conducting tests.
-
 
 try:
     write_secret_scanning_alerts_data_to_excel(repo_owner, repo_name, token, output_file)

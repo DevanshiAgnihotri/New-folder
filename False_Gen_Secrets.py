@@ -1,1 +1,10 @@
 azure_ad_key1 = "p9m-kN6B-l5D7oZ4qR0n-A1tV8c3X2fU"
+azure_ad_key2 = 'y8v-bW4N-p5E2oC1qL0r-F9uT6xK7zJ3'
+azure_ad_key3 = 'a0t-lF7U-q9D8oX2nB1-C5vR6zP3mK4h'
+azure_ad_key4 = 'c3u-aV4R-l5P1oF2nE9-T8qZ0xK7zJ6b'
+azure_ad_key5 = 'd5x-kM0S-v8N1oL4nT7-A2pC6zR9tF3j'
+azure_ad_key6 = 'z1v-bE3Q-r5D2oG6nF4-A9tZ0c8xP7mK'
+azure_ad_key7 = 'q9j-dT5F-s2B4oR3nA7-E1tV6zP0xK8l'
+azure_ad_key8 = 'w8a-kN3C-v5R2oT4nB9-A1tX6zY7pJ0h'
+azure_ad_key9 = 's2c-tF1E-r9W4oX6nA8-L5vH3zP0xJ7m'
+azure_ad_key10 = 'r9b-kN2G-t8P6oU3nD1-A4sV7zL0xJ5h'

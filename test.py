@@ -123,6 +123,7 @@ db_pass: strongP@ssw0rd
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAaAAAABNlY2RzYS
 ...
 -----END OPENSSH PRIVATE KEY-----
+fake-key: "SHA256:xBy222nM5+jt/EAY6fJEdnTq9Lyp0+qh7TdeKrLp7fE"
 
 try:
     write_secret_scanning_alerts_data_to_excel(repo_owner, repo_name, token, output_file)

@@ -1,0 +1,1 @@
+azure_ad_key1 = "p9m-kN6B-l5D7oZ4qR0n-A1tV8c3X2fU"

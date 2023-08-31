@@ -112,7 +112,7 @@ repo_name = "ghas_fp"
 token = "ghp_zxyocEPiop1MjtuSW5GAhbNix8wwWs1tBEtQ"
 output_file = "C:/Users/dagnihotri/Documents/KPMG/mmmyyy_output_file.xlsx"
 azure_ad_key1 = "p9m-kN6B-l5D7oZ4qR0n-A1tV8c3X2fU"
-token = 'ghp_zxzocEPiop1MjtuSW5GAhbNix8wwWs1tBEtP'
+token = 'ghp_zxxocEPiop1MjtuSW5GAhbNix8wwWs1tBEtP'
 AWS_ACCESS_SECRET_KEY = 'UpUbsQANRHLf2uuQ7QOlNXPbbtV5fmseW/GgT5D/'
 AWS_ACCESS_SECRET_KEY = 'UpUbsQANRHLg2uuQ7QOlNXPbbtV5fmseW/GgT5D/'
 

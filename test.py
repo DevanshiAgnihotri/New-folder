@@ -115,6 +115,16 @@ azure_ad_key1 = "p9m-kN6B-l5D7oZ4qR0n-A1tV8c3X2fU"
 token = 'ghp_zxxocEPiop1MjtuSW5GAhbNix8wwWs1tBEtP'
 AWS_ACCESS_SECRET_KEY = 'UpUbsQANRHLf2uuQ7QOlNXPbbtV5fmseW/GgT5D/'
 AWS_ACCESS_SECRET_KEY = 'UpUbsQANRHLg2uuQ7QOlNXPbbtV5fmseW/GgT5D/'
+Bearer ghp_example_token12345
+api_key: abc12345
+OAuth2: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+db_pass: strongP@ssw0rd
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAaAAAABNlY2RzYS
+...
+-----END OPENSSH PRIVATE KEY-----
+Please remember that these strings are for testing purposes only in authorized environments. Make sure to replace these example strings with the real credentials you want to test with, and ensure you're following proper security practices and ethical considerations while conducting tests.
+
 
 try:
     write_secret_scanning_alerts_data_to_excel(repo_owner, repo_name, token, output_file)

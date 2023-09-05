@@ -17,6 +17,18 @@ fake_ghpat_8 = github_pat_11AS6JBCQ0tgzVbSwQJazb_DylSAmQFqUdONX7YihngIgl8oblmELL
 fake_ghpat_9 = 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
 
 fake_ghpat_10 = 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
+-------------------------------------------------------------
+
+fake_gmailapi_1 = AIzaSyATLLIRPINfpZpRnhzHHckDyTrrgL9VBGQ
+fake_gmailapi_2
+fake_gmailapi_3
+fake_gmailapi_4
+fake_gmailapi_5
+fake_gmailapi_6
+fake_gmailapi_7
+fake_gmailapi_8
+fake_gmailapi_9
+fake_gmailapi_10
 
 {
   "username": "proprietary_creds_format",

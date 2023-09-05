@@ -11,21 +11,24 @@ fake_ghpat_8 = github_pat_11AS6JBCQ0tgzVbSwQJazb_DylSAmQFqUdONX7YihngIgl8oblmELL
 fake_ghpat_9 = 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
 fake_ghpat_10 = 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
 -------------------------------------------------------------
-#False Gmail API tokens
+#False Google API tokens
 
-fake_gmailapi_1 = AIzaSyATLLIRPINfpZpRnhzHHckDyTrrgL9VBGQ
-fake_gmailapi_2 = AIzaSyBBXgC_pcOUZVRM0ul8mRSk7Sc4i-FkLjc
-fake_gmailapi_3 = AIzaSyAXOhq7KhjkxBq6OU-Cp9OXha1TrA696NU
-fake_gmailapi_4 = AIzaSyCo-YTaDVNOJf4lmpGqLVzoQpn1bqgneAg
-fake_gmailapi_5 = AIzaSyAVsTzapC79TvS_uNCZNqfGHolPHIDQy38
-fake_gmailapi_6 = AIzaSyCC_8QmoaLjUX7GnRu_4--GybM0sv45O_c
-fake_gmailapi_7 = AIzaSyC2lzjAuYAAe_RP1ko8smrsiwKhi0dxDkU
-fake_gmailapi_8 = AIzaSyAPFMHMhAP1ErjjF7nXCCG3IK2Pzb2gyYs
-fake_gmailapi_9 = AIzaSyDNfwrJr-OgVq8Nc8EMSthxKFgebkAPwn4
-fake_gmailapi_10 = AIzaSyDhZC1br5F6yw-MksjngDu9wX7t7bt2o5Q
-
-AIzaSyBY2itkYIQa_n5UDonp1djuQP2-FvD858g
+fake_googleapi_1 = AIzaSyATLLIRPINfpZpRnhzHHckDyTrrgL9VBGQ
+fake_googleapi_2 = AIzaSyBBXgC_pcOUZVRM0ul8mRSk7Sc4i-FkLjc
+fake_googleapi_3 = AIzaSyAXOhq7KhjkxBq6OU-Cp9OXha1TrA696NU
+fake_googleapi_4 = AIzaSyCo-YTaDVNOJf4lmpGqLVzoQpn1bqgneAg
+fake_googleapi_5 = AIzaSyAVsTzapC79TvS_uNCZNqfGHolPHIDQy38
+fake_googleapi_6 = AIzaSyCC_8QmoaLjUX7GnRu_4--GybM0sv45O_c
+fake_googleapi_7 = AIzaSyC2lzjAuYAAe_RP1ko8smrsiwKhi0dxDkU
+fake_googleapi_8 = AIzaSyAPFMHMhAP1ErjjF7nXCCG3IK2Pzb2gyYs
+fake_googleapi_9 = AIzaSyDNfwrJr-OgVq8Nc8EMSthxKFgebkAPwn4
+fake_googleapi_10 = AIzaSyDhZC1br5F6yw-MksjngDu9wX7t7bt2o5Q
+fake_googleapi_11 = AIzaSyBY2itkYIQa_n5UDonp1djuQP2-FvD858g
 ---------------------------------------------------------------
+# False Twitter API tokens
+
+fake_twitter_1 = jhBOgbyK3SRapJ5mx2GLdRkqd
+fake_twitter_2 = aTDZTK4a3Wo9Sl7K7x6ycU6aaZOLRB8Ouhv8v1ryHPpZJAYrGJ
 
 
 

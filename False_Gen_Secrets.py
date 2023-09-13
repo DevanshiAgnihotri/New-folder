@@ -30,6 +30,22 @@ fake_googleapi_11 = AIzaSyBY2itkYIQa_n5UDonp1djuQP2-FvD858g
 fake_twitter_1 = jhBOgbyK3SRapJ5mx2GLdRkqd
 fake_twitter_2 = aTDZTK4a3Wo9Sl7K7x6ycU6aaZOLRB8Ouhv8v1ryHPpZJAYrGJ
 
+--------------------------------------------------------------------
+#False AWS API tokens
+
+fake_aws_1 = AKIAYDDIOZFUJRIHOHPE
+fake_aws_2 = AKIAYDDIOZFUFYVNWLHQ
+fake_aws_3 = ZK6tcWbB7KUigW9UTYEuD1duPVyobJOrz3CZ0fep
+fake_aws_4 =
+fake_aws_5 =
+fake_aws_6 =
+fake_aws_7 =
+fake_aws_8 =
+fake_aws_9 =
+fake_aws_10 = 
+
+
+
 
 
 #define IO_KEY       "aio_AbCD37pXDJeJvBsNuyf6l6RYqoCb"

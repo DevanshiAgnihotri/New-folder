@@ -10,6 +10,9 @@ fake_ghpat_7 = github_pat_11AS6JBCQ0fBpm93xLcHsh_zLhswDMDFuGT5dN4AZliQWhUct6sjwv
 fake_ghpat_8 = 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
 fake_ghpat_9 = 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
 fake_ghpat_10 = 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
+fake_ghpat_10 = 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
+
+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
 -------------------------------------------------------------
 #False Google API tokens
 

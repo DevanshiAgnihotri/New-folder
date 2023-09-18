@@ -56,7 +56,12 @@ fake_aws_17 = 8CvG0EGaXHyVN31bsc1cBQHHrI6PaONpHq+Bwozv
 fake_aws_18 = AKIAYDDIOZFUJTYVMF4B
 fake_aws_19 = 5mFbcNmsDtjpvVv5gl6H5oWTlYZxLUne5hVpa5xr
 --------------------------------------------------------------
-# False CloudFront Key Pair
+# False Twilio
+
+SK410c0a86d17702c512f28103687bc315
+R5oXtwDoOrpg4ngTSGn9OQD67OA28JRp
+SK333995bcb375ab09bf128125986f266e
+fwcPrmzocSJqMpceP2GfutUnywR5zjXV
 
 -----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt79rAPVXHYRKQ3Eq6wcq
